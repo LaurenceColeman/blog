@@ -10,7 +10,7 @@ Oh no!
 I assumed I must have walked away from a workpiece while the clip was still attached (I've definitely done this a few times) and accidentally yanked it badly enough to break the conductor.
 
 Have I been using a broken strap?  
-Was I congratulating myself for putting a useless, blue wristband on every time?  
+Was I putting on a useless, blue wristband each time?  
 Worse still, did ifixit send me a strap that didn't work? That would shake my world-view!
     
 Cheap ones are only a couple of £s so I bought a new one from Ebay.  
