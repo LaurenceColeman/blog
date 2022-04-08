@@ -13,7 +13,7 @@ Have I been using a broken strap?
 Was I putting on a useless, blue wristband each time?  
 Worse still, did ifixit send me a strap that didn't work? That would shake my world-view!
     
-Cheap ones are only a couple of £s so I bought a new one from Ebay.  
+Cheap ones are only a couple of £s so I bought a new one from eBay.  
 The new one also showed no connection between clip and strap. 
 Is it likely I had two faulty straps from two different manufacturers?  
 It's much more likely I just don't understand how they work.
