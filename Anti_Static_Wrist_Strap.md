@@ -1,23 +1,40 @@
-While I was at it, I tested between the earth pin and the wrist contact.  
-No beep. The result was apparently no connection.
+2022 04 08  
 
-Oh no! Have I been using a broken strap which was giving me no protection?
-Worse still, did Ufixit send me a strap that didn't work? That would shake my world-view!
+# Is my wrist-strap broken?  
+I was exploring my options for anti-static [grounding](grounding_myself.md) myself when I'm building electronics at home.  
 
-I assumed I must have broken the conductor by walking away from a workpiece while the clip was still attached, accidentally yanking it.
+For fun, I tried testing between the crocodile clip and the wrist contact of my [Anti-Static Wrist Strap](https://www.ifixit.com/Store/Tools/Anti-Static-Wrist-Strap/IF145-071) for continuity.  
+No beep. Apparently there's no connection.
 
-They are only a couple of £s so I bought a new one.
-New one also showed no continuity. 
-I must have misunderstood how the strap works.
+Oh no!  
+I assumed I must have walked away from a workpiece while the clip was still attached (I've definitely done this a few times) and accidentally yanked it badly enough to break the conductor.
 
-Some quick research showed me that a strap should be about 1MOhm. 
->https://mulloverthings.com/how-do-you-measure-an-esd-wrist-strap/#What_is_the_specification_of_anti-static_wrist_strap
+Have I been using a broken strap?  
+Was I congratulating myself for putting a useless, blue wristband on every time?  
+Worse still, did ifixit send me a strap that didn't work? That would shake my world-view!
+    
+Cheap ones are only a couple of £s so I bought a new one from Ebay.  
+The new one also showed no connection between clip and strap. 
+Is it likely I had two faulty straps from two different manufacturers?  
+It's much more likely I just don't understand how they work.
 
-I had assumed it was just a copper wire with negligible resistance!
-But it makes total sense: you don't want any current you accidentally touch to short straight through your wrist.
+<a id='tldr'></a>
 
+# It's not just a wire on elastic  
+Some quick research showed me that a strap should be about 1MOhm:  
+> <a href="https://mulloverthings.com/how-do-you-measure-an-esd-wrist-strap/#What_is_the_specification_of_anti-static_wrist_strap" target="_blank">https://mulloverthings.com/how-do-you-measure-an-esd-wrist-strap/#What_is_the_specification_of_anti-static_wrist_strap</a>  
 
+No wonder the continuity test didn't register any current, it's a long bendy resistor!  
+I'd assumed it was just a copper wire with negligible resistance but it makes total sense: you don't want to accidentally short a live current straight through your wrist by accident.
 
-> "(the wrist-strap part is) expected to have an internal resistance of less than 100KOms so that you get a good connection to your skin"
-> "The external resistance of the band should be more than 10MOhms so you don't accidentally short your board"   
-> https://youtu.be/f3nBl2DrAEA?t=736
+Well, now I have a spare wrist strap!
+
+## resources
+___ 
+
+> "(the textile wrist strap is) expected to have an internal resistance of less than 100KOms so that you get a good connection to your skin.  
+> ...  
+> The external resistance of the band should be more than 10MOhms so you don't accidentally short your board"   
+> <a href="https://youtu.be/f3nBl2DrAEA?t=736" target="blank">https://youtu.be/f3nBl2DrAEA?t=736</a>  
+> 
+___       
