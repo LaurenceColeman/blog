@@ -28,7 +28,7 @@ It's definitely earthed (wise choice past-Laurence. I always believed in you.)
 
 # Can I quickly make a BETTER connection place to clip the strap to?
 ## Straight into the wall
-- Push a brass earth-pin (salvaged from a [[shattered plug]]) into the earth hole of a 4way mains extension.
+- Push a brass earth-pin ([salvaged](shattered%20plug.md) from a broken 3 pin plug) into the earth hole of a 4way mains extension.
 - croc-clip ESD strap to the pin
 
 The power switch ***is*** off, but I still don't love this as a point to clip directly to because:
