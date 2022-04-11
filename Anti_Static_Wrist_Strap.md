@@ -3,7 +3,7 @@
 # Is my wrist-strap broken?  
 I was exploring my options for anti-static [grounding](grounding_myself.md) myself when I'm building electronics at home.  
 
-For fun, I tried testing between the crocodile clip and the wrist contact of my [Anti-Static Wrist Strap](https://www.ifixit.com/Store/Tools/Anti-Static-Wrist-Strap/IF145-071) for continuity.  
+For fun, I tried testing between the crocodile clip and the wrist contact of my <a href='https://www.ifixit.com/Store/Tools/Anti-Static-Wrist-Strap/IF145-071' target='_blank' rel='noopener noreferrer'>Anti-Static Wrist Strap</a> for continuity.  
 No beep. Apparently there's no connection.
 
 Oh no!  
