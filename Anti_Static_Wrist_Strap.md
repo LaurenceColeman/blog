@@ -35,6 +35,6 @@ ___
 > "(the textile wrist strap is) expected to have an internal resistance of less than 100KOms so that you get a good connection to your skin.  
 > ...  
 > The external resistance of the band should be more than 10MOhms so you don't accidentally short your board"   
-> <a href="https://youtu.be/f3nBl2DrAEA?t=736" target="blank" rel="noopener noreferrer>https://youtu.be/f3nBl2DrAEA?t=736</a>  
+> <a href="https://youtu.be/f3nBl2DrAEA?t=736" target="blank" rel="noopener noreferrer">https://youtu.be/f3nBl2DrAEA?t=736</a>  
 > 
 ___       
